@@ -35,9 +35,9 @@ omarchy theme set "Polar Aurora"
 
 ## Что внутри
 
-- **Пять обоев** в `backgrounds/` — переключаются через `omarchy theme bg next`:
-  сияние над соснами, фиолетовый дрейф, бирюзовый горизонт, замёрзшее озеро,
-  заснеженная хижина.
+- **Четыре обоев** в `backgrounds/` — переключаются через
+  `omarchy theme bg next`: три полярные ночи и один кадр в синий час, для тех
+  случаев, когда хочется светлее.
 - **Градиентная рамка окон** — от мятного к фиолетовому под 45°, приглушённый
   сланец в неактивном окне.
 - **Тема для всего, что Omarchy умеет темизировать**: Hyprland, бар и его панели,
@@ -45,6 +45,19 @@ omarchy theme set "Polar Aurora"
   Chromium, fcitx5, Claude, Hermes.
 - **Экран блокировки и превью** (`unlock.png`, `preview.png`,
   `preview-unlock.png`), чтобы тема правильно выглядела в выборе тем.
+
+## Обои
+
+<table>
+<tr>
+<td align="center"><img src="backgrounds/1-aurora-over-pines.webp" width="380" alt="Aurora over pines"><br><sub>aurora over pines</sub></td>
+<td align="center"><img src="backgrounds/2-violet-drift.webp" width="380" alt="Violet drift"><br><sub>violet drift</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="backgrounds/3-teal-horizon.webp" width="380" alt="Teal horizon"><br><sub>teal horizon</sub></td>
+<td align="center"><img src="backgrounds/4-polar-twilight.webp" width="380" alt="Polar twilight"><br><sub>polar twilight</sub></td>
+</tr>
+</table>
 
 ## Палитра
 
@@ -55,7 +68,7 @@ omarchy theme set "Polar Aurora"
 | фон | `#0b1220` | полярная ночь |
 | фон темнее | `#04070e` | |
 | текст | `#d6e6f7` | подсвеченный снегом |
-| выделение | `#1e3350` | |
+| выделение | `#28426a` | |
 | приглушённый | `#3d5273` | |
 | красный / жёлтый / зелёный / циан / синий / маджента | `#f4778f` `#f0d27d` `#7ce3a2` `#5ed9e8` `#7fa8f5` `#bd8cff` | |
 

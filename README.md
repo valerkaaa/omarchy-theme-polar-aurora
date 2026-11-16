@@ -35,14 +35,28 @@ install — Omarchy generates those from `colors.toml`.
 
 ## What you get
 
-- **Five backgrounds** in `backgrounds/` — cycle them with `omarchy theme bg next`:
-  aurora over pines, violet drift, teal horizon, frozen lake, snowbound cabin.
+- **Four backgrounds** in `backgrounds/` — cycle them with
+  `omarchy theme bg next`: three polar nights and one blue-hour landscape for
+  when a bright screen is what you want.
 - **A gradient window border** — mint to violet at 45°, dim slate when inactive.
 - **A theme for everything Omarchy themes**: Hyprland, the bar and its panels,
   the launcher, Alacritty, Foot, Kitty, Ghostty, btop, Helix, Neovim, VS Code,
   Chromium, fcitx5, Claude, Hermes.
 - **A lock screen and a preview** (`unlock.png`, `preview.png`,
   `preview-unlock.png`) so it reads correctly in the theme picker.
+
+## The wallpapers
+
+<table>
+<tr>
+<td align="center"><img src="backgrounds/1-aurora-over-pines.webp" width="380" alt="Aurora over pines"><br><sub>aurora over pines</sub></td>
+<td align="center"><img src="backgrounds/2-violet-drift.webp" width="380" alt="Violet drift"><br><sub>violet drift</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="backgrounds/3-teal-horizon.webp" width="380" alt="Teal horizon"><br><sub>teal horizon</sub></td>
+<td align="center"><img src="backgrounds/4-polar-twilight.webp" width="380" alt="Polar twilight"><br><sub>polar twilight</sub></td>
+</tr>
+</table>
 
 ## Palette
 
@@ -53,7 +67,7 @@ install — Omarchy generates those from `colors.toml`.
 | background | `#0b1220` | polar night |
 | darker background | `#04070e` | |
 | foreground | `#d6e6f7` | snow-lit text |
-| selection | `#1e3350` | |
+| selection | `#28426a` | |
 | muted | `#3d5273` | |
 | red / yellow / green / cyan / blue / magenta | `#f4778f` `#f0d27d` `#7ce3a2` `#5ed9e8` `#7fa8f5` `#bd8cff` | |
 
